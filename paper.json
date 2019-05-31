@@ -1,0 +1,39 @@
+{
+    "id": "dd55b761-4aaa-4398-ab13-e0e2109c0221",
+    "description": "没啥想说的，别别别敷衍就行。（感jio我就是很敷衍）",
+    "questions": [
+        {
+            "id": "4d7f5b63-5856-4568-a44f-6d57f763e4a1",
+            "question_type": 1,
+            "content_type": 1,
+            "content": "喜欢什么？",
+            "options": [],
+            "school_limit": false
+        },
+        {
+            "id": "4db01d69-4748-485d-a801-889e1dd52b15",
+            "question_type": 1,
+            "content_type": 1,
+            "content": "不喜欢什么？",
+            "options": [],
+            "school_limit": false
+        },
+        {
+            "id": "658020e8-9c90-4261-9d7d-f14824b22951",
+            "question_type": 1,
+            "content_type": 1,
+            "content": "性格咋样？",
+            "options": [],
+            "school_limit": false
+        },
+        {
+            "id": "5454a814-c95f-48aa-8d5d-d7ec9c934d12",
+            "question_type": 1,
+            "content_type": 1,
+            "content": "为啥你们都想过来找女朋友？",
+            "options": [],
+            "school_limit": false
+        }
+    ],
+    "voted": false
+}

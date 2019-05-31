@@ -1,0 +1,79 @@
+{
+    "id": "c29217e5-57cb-4b25-a9d6-3af6f8096b4f",
+    "nickname": "自在",
+    "avatar": "https://static.imsummer.cn/c29217e5-57cb-4b25-a9d6-3af6f8096b4f/Avatar/1559279640171",
+    "gender": 2,
+    "birthday": "2000-10-28",
+    "relationship_status": 2,
+    "constellation": 10,
+    "im_id": "morning-mountain-502749",
+    "lat": "28.716527",
+    "lng": "115.8244",
+    "official": false,
+    "sexual_orientation": true,
+    "major": "搬砖",
+    "enroll": 2018,
+    "degree": 1,
+    "certification_status": 3,
+    "movies": [],
+    "music": [],
+    "books": [],
+    "hobbies": [],
+    "bio": "在我在你的沉默里寂静无声。",
+    "paper_id": "dd55b761-4aaa-4398-ab13-e0e2109c0221",
+    "albums": [],
+    "tags": {
+        "music": [
+            "五月天"
+        ],
+        "series": [
+            "不追剧也不追你"
+        ],
+        "pet": [],
+        "sport": [],
+        "food": [],
+        "hangout": [],
+        "book": [],
+        "charater": [
+            "你不喜欢的我都有"
+        ],
+        "movie": [],
+        "traval": [],
+        "dream": [
+            "一个温暖的人和一个大房子叭"
+        ]
+    },
+    "real_birthday_type": 0,
+    "song_list_url": "http://music.163.com/playlist/2455000720/1598702997/?userid=1598702997",
+    "user_scope": "global",
+    "can_use_radar": false,
+    "total_points": 184,
+    "current_points": 184,
+    "level": {
+        "name": "劳动委员",
+        "level": 3
+    },
+    "same_city": false,
+    "has_photo": false,
+    "has_radio": false,
+    "city": {
+        "id": "117b61fe-edf0-426f-8b10-683baa3b5b3e",
+        "name": "南昌"
+    },
+    "province": {
+        "id": "9c68e983-dfa5-4bea-a82c-15332e2e5675",
+        "name": "江西"
+    },
+    "school": {
+        "id": "4c0b467a-2b3e-4e29-8300-0e03c995978f",
+        "name": "东华理工大学"
+    },
+    "department": {
+        "id": "dd9f3968-7f1b-4acb-a8b6-95df62db9e9e",
+        "name": "其它院系"
+    },
+    "characters": [],
+    "in_blocks": false,
+    "in_shields": false,
+    "show_game_invite": false
+}
